@@ -1,1 +1,2 @@
 screen 
+console.log()
